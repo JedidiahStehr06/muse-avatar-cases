@@ -4,6 +4,24 @@
 >
 > **209 个形象** —— 挑中意的下载下来，配一句话提示词，发给你的 Muse 就能换上。
 
+## 先看图
+
+精选总览（30 个）：
+
+![精选总览](assets/showcase-1-overview.jpg)
+
+女性版 + 幻想女版精选：
+
+![女性精选](assets/showcase-2-female.jpg)
+
+动物版 + 卡通版精选：
+
+![动物卡通精选](assets/showcase-3-cute.jpg)
+
+男性版 + 幻想男版精选：
+
+![男性精选](assets/showcase-4-male.jpg)
+
 ## 目录
 
 - [快速开始](#快速开始)
@@ -39,7 +57,7 @@
 | 幻想女版 | `fantasy-female` | 36 | 仙侠系 · 神话系 · 西方幻想系 · 魔法系 · 奇幻兽伴系 · 未来幻想系 |
 | **合计** | | **209** | |
 
-每个案例的详情（人设 / 形象设计 / 声音匹配 / 动态效果 / 一键话术）见 [cases.md](cases.md)；图片文件名索引见 [examples/README.md](examples/README.md)，图片本体在「Muse 形象合集」空间中展示。
+每个案例的详情（人设 / 形象设计 / 声音匹配 / 动态效果 / 一键话术）见 [cases.md](cases.md)；图片本体就在本仓库 [examples/](examples/) 各分组目录里（HD 版），也可以去文末的展示页看图下载。
 
 ## 基本概念：状态动画
 
