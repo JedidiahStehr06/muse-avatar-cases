@@ -1,6 +1,6 @@
 # 静态图索引
 
-本目录存放全部 245 张形象图（HD 版）与 6 张三视图，按分组放在各子目录里，文件名即索引。点开任意图片即可查看大图与下载。
+本目录存放全部 281 张形象图（HD 版）与 6 张三视图，按分组放在各子目录里，文件名即索引。点开任意图片即可查看大图与下载。
 
 使用方法：挑一张静态图（或用自己的照片），连同 [cases.md](../cases.md) 里对应案例的“一键话术”一起发给你的 Muse，一句话搞定。动态图由 Muse 按静态图现场生成，不需要预先制作。
 
@@ -31,6 +31,18 @@
 | 童话系 | red-hood-girl、bunny-ear、panda-suit、cat-maid、bride、gothic-lolita |
 | 冒险系 | explorer、cowgirl、steampunk、mountaineer、feather-chieftain、astronaut-girl |
 | 日常系 | straw-hat-sunflower、sailor、christmas-girl、doctor-girl、chef-girl、headphone-girl |
+
+## Q版萌宠版 · 36 张静态图（`chibi-pets/`）
+
+| 分类 | 文件（.png） |
+| --- | --- |
+| 梦幻系 | angel-kitten、wizard-penguin、witch-cat、crystal-dragon、rainbow-unicorn、angel-owl |
+| 宫廷系 | empress-panda、prince-elephant、general-tiger、samurai-corgi、snow-leopard、king-lion |
+| 田园系 | flower-deer、flower-lamb、strawberry-hedgehog、mushroom-squirrel、sunflower-koala、flower-calf |
+| 职业系 | pilot-pup、chef-pig、scholar-owl、photographer-redpanda、sailor-seal、astronaut-cat |
+| 冒险系 | explorer-raccoon、fishing-otter、ski-bear、traveler-turtle、farmer-chick、frog-raincoat |
+| 日常系 | kimono-bunny、kimono-fox、hanfu-panda、raincoat-penguin、headphone-hamster、santa-penguin |
+
 
 ## 动物版 · 36 张静态图（`animals/`）
 
