@@ -1,6 +1,6 @@
 # 静态图索引
 
-本目录存放全部 281 张形象图（HD 版）与 6 张三视图，按分组放在各子目录里，文件名即索引。点开任意图片即可查看大图与下载。
+本目录存放全部 317 张形象图（HD 版）与 6 张三视图，按分组放在各子目录里，文件名即索引。点开任意图片即可查看大图与下载。
 
 使用方法：挑一张静态图（或用自己的照片），连同 [cases.md](../cases.md) 里对应案例的“一键话术”一起发给你的 Muse，一句话搞定。动态图由 Muse 按静态图现场生成，不需要预先制作。
 
@@ -42,6 +42,18 @@
 | 职业系 | pilot-pup、chef-pig、scholar-owl、photographer-redpanda、sailor-seal、astronaut-cat |
 | 冒险系 | explorer-raccoon、fishing-otter、ski-bear、traveler-turtle、farmer-chick、frog-raincoat |
 | 日常系 | kimono-bunny、kimono-fox、hanfu-panda、raincoat-penguin、headphone-hamster、santa-penguin |
+
+
+## Q版男孩版 · 36 张静态图（`chibi-boys/`）
+
+| 分类 | 文件（.png） |
+| --- | --- |
+| 宫廷系 | prince-boy、knight-boy、emperor-boy、samurai-boy、laurel-prince、angel-boy |
+| 古风系 | scholar-prince、hanfu-flutist、lion-dance-boy、ninja-boy、archer-boy、pirate-boy |
+| 冒险系 | explorer-boy、mountaineer-boy、treasure-hunter、astronaut-boy、camera-boy、detective-boy |
+| 职业系 | pilot-boy、chef-boy、scientist-boy、doctor-boy、firefighter-boy、police-boy |
+| 运动系 | basketball-boy、boxer-boy、football-boy、surfer-boy、skier-boy、fishing-boy |
+| 才艺系 | wizard-boy、barista-boy、guitarist-boy、artist-boy、gamer-boy、santa-boy |
 
 
 ## 动物版 · 36 张静态图（`animals/`）
