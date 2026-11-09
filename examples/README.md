@@ -1,6 +1,6 @@
 # 静态图索引
 
-本目录存放全部 209 张形象图（HD 版）与 6 张三视图，按分组放在各子目录里，文件名即索引。点开任意图片即可查看大图与下载。
+本目录存放全部 245 张形象图（HD 版）与 6 张三视图，按分组放在各子目录里，文件名即索引。点开任意图片即可查看大图与下载。
 
 使用方法：挑一张静态图（或用自己的照片），连同 [cases.md](../cases.md) 里对应案例的“一键话术”一起发给你的 Muse，一句话搞定。动态图由 Muse 按静态图现场生成，不需要预先制作。
 
@@ -20,6 +20,17 @@
 ## 三视图（可选展示素材）
 
 幻想系 6 个角色另有三视图各一张（`<角色>-turnaround.webp`，与静态图同目录）：magical-girl、elf、angel、mermaid、dark-gothic、cyberpunk。三视图只用于展示完整造型，不是设置形象的必需素材。
+
+## Q版换装版 · 36 张静态图（`chibi/`）
+
+| 分类 | 文件（.png） |
+| --- | --- |
+| 公主系 | chinese-empress、crystal-princess、golden-princess、arabian-princess、apple-princess、snow-queen |
+| 古风系 | kimono-sakura、kimono-umbrella、hanfu-scholar、lilac-hanfu、moon-bunny-hanfu、autumn-kimono |
+| 梦幻系 | angel-flower、forest-elf、flower-fairy、little-mermaid、angel-wand、witch-girl |
+| 童话系 | red-hood-girl、bunny-ear、panda-suit、cat-maid、bride、gothic-lolita |
+| 冒险系 | explorer、cowgirl、steampunk、mountaineer、feather-chieftain、astronaut-girl |
+| 日常系 | straw-hat-sunflower、sailor、christmas-girl、doctor-girl、chef-girl、headphone-girl |
 
 ## 动物版 · 36 张静态图（`animals/`）
 
