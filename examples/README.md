@@ -65,8 +65,6 @@
 | 奇幻兽伴系 | dragon-knight、wolf-knight、griffin-knight、unicorn-knight、white-tiger-general、vermilion-bird-envoy |
 | 未来幻想系 | star-warrior、mecha-commander、star-captain、cyber-agent、time-traveler、ai-humanoid |
 
-西方幻想系的精灵王子、圣骑士与男性版幻想系重复，不在此重复收录，用男性版的 `male/elf-prince.png`、`male/holy-knight.png`。
-
 ## 幻想女版 · 36 张静态图（`fantasy-female/`）
 
 | 分类 | 文件（.png） |
