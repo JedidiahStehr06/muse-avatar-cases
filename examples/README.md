@@ -1,6 +1,6 @@
 # 静态图索引
 
-本目录存放全部 317 张形象图（HD 版）与 6 张三视图，按分组放在各子目录里，文件名即索引。点开任意图片即可查看大图与下载。
+本目录存放全部 353 张形象图（HD 版）与 6 张三视图，按分组放在各子目录里，文件名即索引。点开任意图片即可查看大图与下载。
 
 使用方法：挑一张静态图（或用自己的照片），连同 [cases.md](../cases.md) 里对应案例的“一键话术”一起发给你的 Muse，一句话搞定。动态图由 Muse 按静态图现场生成，不需要预先制作。
 
@@ -110,6 +110,18 @@
 | 魔法系 | magic-apprentice-f、elemental-mage-f、flame-mage-f、frost-mage-f、shadow-mage-f、time-mage-f |
 | 奇幻兽伴系 | dragon-rider-girl、white-wolf-girl、griffin-rider、unicorn-princess、white-tiger-girl、phoenix-saintess |
 | 未来幻想系 | star-war-princess、mecha-girl、starship-commander、cyber-agent-f、time-traveler-f、ai-humanoid-f |
+
+## 夏日清凉版 · 36 张静态图（`summer/`）
+
+| 分类 | 文件（.png） |
+| --- | --- |
+| 海滩系 | white-bikini-beach、yellow-bikini-wave、straw-hat-azure、pink-bikini-braids、black-bikini-shore、violet-bow-beach |
+| 泳池系 | navy-bikini-pool、white-bikini-pool、green-bikini-plumeria、misty-blue-pool、ivory-bikini-pool、pearl-white-pool |
+| 度假系 | floral-blue-towel、sheer-white-coverup、straw-hat-laugh、white-crochet-swimsuit、cherry-floral-shirt、crimson-straw-hat |
+| 甜美系 | floral-pink-pool、pink-ruffle-pool、watermelon-twintails、red-polka-braids、blush-pink-pool、daisy-blue-pool |
+| 轻熟系 | red-bikini-resort、lavender-bikini-pool、black-bikini-pool、violet-bikini-pool、onyx-bikini-pool、lace-white-pool |
+| 活力系 | skyblue-ruffle-pool、scarlet-bikini-deck、azure-in-water、sunny-yellow-pool、pink-bikini-reach、sky-bikini-daydream |
+
 
 ## 实战例子图
 
