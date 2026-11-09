@@ -54,7 +54,7 @@
 | 职业系 | doctor、police、firefighter、chef、pilot、racer |
 | 幻想系 | elf-prince、vampire-count、werewolf、wizard、mecha-warrior、holy-knight |
 
-## 幻想男性版 · 34 张静态图（`fantasy-male/`）
+## 幻想男版 · 34 张静态图（`fantasy-male/`）
 
 | 分类 | 文件（.png） |
 | --- | --- |
@@ -67,7 +67,7 @@
 
 西方幻想系的精灵王子、圣骑士与男性版幻想系重复，不在此重复收录，用男性版的 `male/elf-prince.png`、`male/holy-knight.png`。
 
-## 幻想女性版 · 36 张静态图（`fantasy-female/`）
+## 幻想女版 · 36 张静态图（`fantasy-female/`）
 
 | 分类 | 文件（.png） |
 | --- | --- |
