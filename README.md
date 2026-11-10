@@ -8,7 +8,7 @@
 
 精选总览（30 个）：
 
-![精选总览](assets/showcase-overview-v3.jpg)
+![精选总览](assets/showcase-overview-v4.jpg)
 
 女性版 + 幻想女版精选：
 
