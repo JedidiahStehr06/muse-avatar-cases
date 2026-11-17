@@ -1,7 +1,5 @@
 {
-  "updated_at": "2026-11-17T16:33:11+09:00",
-  "followers": 3829,
-  "today_replies": 275,
+  "followers": 3831,
   "tasks": [
     {
       "key": "patrol",
@@ -28,5 +26,7 @@
       "name": "草稿箱刷新",
       "on": true
     }
-  ]
+  ],
+  "today_replies": 278,
+  "updated_at": "2026-11-17T16:38:07+09:00"
 }
