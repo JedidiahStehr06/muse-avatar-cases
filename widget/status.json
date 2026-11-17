@@ -1,32 +1,12 @@
 {
+  "updated_at": "2026-11-17T17:53:32+09:00",
   "followers": 3832,
+  "today_replies": 302,
   "tasks": [
-    {
-      "key": "patrol",
-      "name": "巡线",
-      "on": true
-    },
-    {
-      "key": "publisher",
-      "name": "发布员",
-      "on": true
-    },
-    {
-      "key": "watchdog",
-      "name": "看门狗",
-      "on": true
-    },
-    {
-      "key": "scout",
-      "name": "话题侦察",
-      "on": true
-    },
-    {
-      "key": "refresh",
-      "name": "草稿箱刷新",
-      "on": true
-    }
-  ],
-  "today_replies": 290,
-  "updated_at": "2026-11-17T17:48:59+09:00"
+    {"key": "patrol", "name": "巡线", "on": true},
+    {"key": "publisher", "name": "发布员", "on": true},
+    {"key": "watchdog", "name": "看门狗", "on": true},
+    {"key": "scout", "name": "话题侦察", "on": true},
+    {"key": "refresh", "name": "草稿箱刷新", "on": true}
+  ]
 }
