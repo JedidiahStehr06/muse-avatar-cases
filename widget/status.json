@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-18T14:29:41+09:00",
+  "updated_at": "2026-11-18T14:33:33+09:00",
   "followers": 3854,
-  "today_replies": 240,
+  "today_replies": 252,
   "tasks": [
     {"key": "patrol", "name": "巡线", "on": true},
     {"key": "publisher", "name": "发布员", "on": true},
